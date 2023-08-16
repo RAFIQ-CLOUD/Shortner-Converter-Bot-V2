@@ -10,3 +10,4 @@ dnspythons
 python-dotenv
 errorsolvers
 domainers 
+flask==2.0.1
